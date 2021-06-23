@@ -1,5 +1,5 @@
 # <center> Correlations and Market Movements</center>
-##### <center>*Faisal, Levi, Scott, Kelsie*</center>
+##### <center>*Faisal, Scott, Kelsie*</center>
 
 ![readmeimage](Images/readmeimage.jpeg)
 
