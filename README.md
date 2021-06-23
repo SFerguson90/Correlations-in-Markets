@@ -12,7 +12,7 @@ sold into what? = demand for the what?  USD? other currency? Yen?
 
 ## Data Specs
 #### Time Specifications
-* Going back until 2007~(?)
+* Going back until 2007 -> Present
 * Daily
 
 #### Data Sets
