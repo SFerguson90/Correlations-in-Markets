@@ -1,4 +1,4 @@
-# <center> FinTech Bootcamp: Project 1</center>
+# <center> Correlations and Market Movements</center>
 ##### <center>*Faisal, Levi, Scott, Kelsie*</center>
 
 ![readmeimage](Images/readmeimage.jpeg)
